@@ -1,0 +1,36 @@
+.container {
+    position: relative;
+    top: 70px;
+    width: 30%;
+    padding: 15px 0px;
+    background: lightgray;
+    margin: auto;
+}
+.registrationForm {
+    width: 70%;
+    margin: auto;
+}
+.formFied {
+    margin: 10px 0px;
+    padding: 5px 0px;
+}
+.formFied label {
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+}
+.formFied input {
+    padding: 5px;
+    width: 180px;
+}
+.formField.btn {
+    text-align: center;
+    margin: 20px 0px;
+}
+.formField.btn button {
+    background: #126112;
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 35%;
+}

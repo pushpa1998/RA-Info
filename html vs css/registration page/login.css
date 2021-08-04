@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    width: 25%;
+    margin: auto;
+    position: relative;
+    top: 80px;
+    background: #dcbaba21;
+    padding: 10px;
+    border-radius: 10px;
+}
+.user input {
+    width: 75%;
+    padding: 10px;
+    background: lightgray;
+    border: none;
+    display: block;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+#signInBtn button {
+    padding: 10px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 80%;
+    background: #4265b3;
+    color: white;
+}
+.forgetPsw {
+    margin-top: 20px;
+}
+.forgetPsw a {
+    text-decoration: none;
+    color: red;
+}
+.loginForm {
+    padding-bottom: 30px;
+}
